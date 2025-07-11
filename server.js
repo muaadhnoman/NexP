@@ -282,7 +282,7 @@ app.post('/analyze2', (req, res) => {
 <html>
 <head>
     <title>Experiment Run Template 1</title>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script>
         $(document).ready(function(){
             var jsMsg = ${js_array};
